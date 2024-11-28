@@ -73,13 +73,13 @@ Output Format
 - A single line containing the merged sorted array.
 
 Example:
-Input
+Input:
 3
 1 4 7
 2 5 8
 3 6 9
 
-Output
+Output:
 Merged Array: [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 ## Question 4: Schedule Tasks with Deadlines Using Max Priority Queue
@@ -102,7 +102,7 @@ Input:
 27   2
 25   1
 
-Output
+Output:
 Maximum Profit: 127
 Scheduled Tasks: [100, 27]
 
