@@ -18,10 +18,10 @@ Print an integer representing the diameter of the binary tree.
 
 Example:
 Input:
-[1, 2, 3, 4, 5, -1, -1, -1, -1, 6, 7]
+[1 2 3 4 5 6 7 8 9 -1 -1 -1 -1 10 11 12 13]
 
 Output:
-5
+8
 
 ## Question 2: Heap Sort - Build a Priority Queue for Tasks
 Problem Statement:
