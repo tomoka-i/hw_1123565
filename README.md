@@ -44,18 +44,20 @@ Output Format:
 
 Example:
 Input:
-6
-ADD Task1 10
-ADD Task2 15
+8
+ADD Task1 15
+ADD Task2 10
 ADD Task3 5
 GET
-ADD Task4 20
+ADD Task4 7
+ADD Task5 30
+ADD Task6 13
 GET
 
 Output:
-Task2
-Task4
-Remaining tasks: [('Task1', 10), ('Task3', 5)]
+Task1
+Task5
+Remaining tasks: [('Task6', 13), ('Task2', 10), ('Task4', 7), ('Task3', 5)]
 
 ## Question 3: Merge K Sorted Arrays Using Min Priority Queue
 You are given K sorted arrays of integers. Write a Python program to merge these arrays into a single sorted array using a Min Priority Queue.
