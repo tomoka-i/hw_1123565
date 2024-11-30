@@ -76,13 +76,14 @@ Output Format
 
 Example:
 Input:
-3
-1 4 7
-2 5 8
-3 6 9
+4
+1 3 5 7
+2 4 9
+6 8 10 13 14
+11 12
 
 Output:
-Merged Array: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Merged Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
 
 ## Question 4: Schedule Tasks with Deadlines Using Max Priority Queue
 You are given N tasks, each with a profit and a deadline. Write a Python program to schedule the tasks such that the maximum profit is achieved, using a Max Priority Queue.
