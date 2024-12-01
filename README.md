@@ -99,15 +99,17 @@ Output Format
 
 Example:
 Input:
-4
-100   2
-19   1
-27   2
-25   1
+6
+10 3
+20 4
+30 4
+50 1
+60 1
+15 2
 
 Output:
-Maximum Profit: 127
-Scheduled Tasks: [100, 27]
+Maximum Profit: 125
+Scheduled Tasks: [60, 30, 20, 15]
 
 Explanation
 -	Input represents 4 tasks with (profit, deadline) as (100, 2), (19, 1), (27, 2), (25, 1).
